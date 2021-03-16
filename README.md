@@ -8,7 +8,7 @@ O dataset original não está mais disponível no Kaggle, mas você pode encontr
 
 Para efeitos de estudos foram feitas algumas modificações no Dataset:
 
-Serão utilizados 50000 amostras desses dados para garantir que o código seja executado rapidamente;
+Serão utilizados 50000 amostras desses dados para garantir que o código seja executado rapidamente.  
 O dataset foi ligeiramente bagunçado, para se parecer mais com um conjunto de dados da vida real, pois os dados do Kaggle podem ser um pouco mais fáceis de trabalhar.
 
 ### Dicionário de Dados
